@@ -1,4 +1,14 @@
 # Proyecto utnSofttek - Movie Center! 👋
 
-1_First step, npm install
+
+
+
+<ul>
+  <li>
+ 1_First step, npm install
+  </li>
+   <li>
 2_Second step npm run dev
+  </li>
+   <li>
+</ul>
